@@ -82,7 +82,6 @@
 
     <div id="IDX-detailscontactContent">
 
-
         <div id="IDX-detailscontactFormWrap" class="IDX-leadFormWrap">
 
             <p id="IDX-detailscontactFormText" class="IDX-leadFormText">
