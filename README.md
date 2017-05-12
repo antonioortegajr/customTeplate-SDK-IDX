@@ -15,7 +15,9 @@ Start local server. PHP [built in web server](http://php.net/manual/en/features.
 
 ### twig
 
-install twig via composer
+Install twig via composer.
+
+Install into SDK folder.
 
 `composer require twig/twig:~1.0`
 
