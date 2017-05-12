@@ -11,6 +11,8 @@ For enhancements please keep the scope to this repo and not a finished applicati
 ### PHP
 5.6 recommended for this SDK
 
+Start local server. PHP [built in web server](http://php.net/manual/en/features.commandline.webserver.php) used.
+
 ### twig
 
 install twig via composer
@@ -27,9 +29,7 @@ install twig via composer
 
 ## twig use
 
-Twig is a templating engine for php.
-
-http://twig.sensiolabs.org https://mijingo.com/blog/key-value-arrays-in-twig
+[Twig is a templating engine for php](http://twig.sensiolabs.org https://mijingo.com/blog/key-value-arrays-in-twig)
 
 ## Basic usage
 
@@ -69,4 +69,4 @@ templates can then be used with twig to offer pages based on dynamic data.
 * {{ photoGallery }} = HTML for all images
 * {{ photoThree }} = HTML for first three images
 
-These variables are for alpha testing. This list, rules and everything will likely change.
+These variables are for alpha testing. This list, rules and everything will likely change. This is by NO means a complete list or tester.
