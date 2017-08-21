@@ -11,7 +11,7 @@ For enhancements please keep the scope to this repo and not a finished applicati
 ### PHP
 5.6 recommended for this SDK
 
-Start local server. PHP (built in web server)[http://php.net/manual/en/features.commandline.webserver.php] used.
+Start local server. PHP [built in web server](http://php.net/manual/en/features.commandline.webserver.php) used.
 
 ### twig
 
