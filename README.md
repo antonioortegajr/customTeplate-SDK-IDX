@@ -58,7 +58,7 @@ templates can then be used with twig to offer pages based on dynamic data.
 * {{ bedrooms }} = HTML for number of full bedrooms
 * {{ fullBaths }} = HTML for number of full baths
 * {{ propStatus }} = Property status
-* {{ priceLabel }} = Lebel for Price
+* {{ priceLabel }} = Label for Price
 * {{ priceDisplay }} = price
 * {{ moreInfoLink }} = Url for more info
 * {{ scheduleShowingLink }} = Url for scheduling a showing
