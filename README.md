@@ -32,7 +32,6 @@ Install into SDK folder.
 ## twig use
 [Twig](http://twig.sensiolabs.org https://mijingo.com/blog/key-value-arrays-in-twig) is a templating engine for PHP
 
-
 ## Basic usage
 
 Create templates with html and variables. Variables are declared using double curly braces.
