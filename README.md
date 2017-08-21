@@ -30,8 +30,8 @@ Install into SDK folder.
     * description / remarks
 
 ## twig use
+[Twig](http://twig.sensiolabs.org https://mijingo.com/blog/key-value-arrays-in-twig) is a templating engine for PHP
 
-[Twig is a templating engine for php](http://twig.sensiolabs.org https://mijingo.com/blog/key-value-arrays-in-twig)
 
 ## Basic usage
 
